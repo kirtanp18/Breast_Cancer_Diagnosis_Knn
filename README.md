@@ -128,4 +128,4 @@ Add more models (Decision Tree, SVM) for comparison.
 👨‍💻 About Me
 I am a second-year Computer Science Engineering student specializing in backend development, and a self-taught AI enthusiast deep-diving into the mathematics of Machine Learning. Rather than relying on black-box libraries, I build algorithms entirely from scratch to master the core fundamentals.
 
-🔗 Connect with me on LinkedIn
+🔗 Connect with me on LinkedIn:-www.linkedin.com/in/kirtan-pandya-2036233b2
